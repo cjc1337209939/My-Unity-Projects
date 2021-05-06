@@ -1,0 +1,4 @@
+repository "New Unity Project 2D@ssl://cjc1337209939@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1337209939" 
+     
