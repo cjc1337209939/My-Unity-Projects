@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: "Assets/Scenes/8/8.2\u811A\u672C\u7684\u4F7F\u7528/New Scene.unity"
-=======
-- path: "Assets/Scenes/4/4.5\u6444\u50CF\u673A/New Scene.unity"
->>>>>>> master
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\New Unity Project 2D",
+    "\\New Unity Project 2D\\Assets",
+    "\\New Unity Project 2D\\Assets\\Script",
+    "\\New Unity Project 2D\\Assets\\Script\\8",
+    "\\New Unity Project 2D\\Assets\\Script\\8\\8.2脚本的使用"
   ],
+  "SelectedNode": "\\New Unity Project 2D\\Assets\\Script\\8\\8.2脚本的使用\\Hello2.cs",
   "PreviewInSolutionExplorer": false
 }
